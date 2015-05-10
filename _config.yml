@@ -1,7 +1,6 @@
 markdown: kramdown
 permalink: /:year/:month/:title/
-url: http://snowdj.github.io/betterblog
-author: Cheng-Jun Wang
+url: http://snowdj.github.io/
 pygments: true
 safe: true
 paginate: 2
